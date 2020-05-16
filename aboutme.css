@@ -1,0 +1,6 @@
+header {font-size: 75px;font-family: 'Times New Roman', Times, serif; text-align: center;color:darkblue;background-image: url(blog.jpg); }
+p {font-size: 15px; font-family: Georgia, 'Times New Roman', Times, serif; color:black;}
+h1 {text-align: center; font-family:'Times New Roman', Times, serif;font-weight: bold;color: cornflowerblue;}
+nav{color: gold;}
+h1.me{font-size: 75px;text-align: center; font-family:'Times New Roman', Times, serif;font-weight: bold;color: cornflowerblue;background-image: url("hobby.jpg");}
+a{font-size: 30px;padding-right: 60px; float: inline-end; color: gold;}
